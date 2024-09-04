@@ -1,3 +1,5 @@
+CREATE database Library_test;
+
 CREATE TABLE Members (
     member_id SERIAL PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
